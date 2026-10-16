@@ -15,6 +15,9 @@ data
 .azure
 *.local
 
+# Local private notes
+/private/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
